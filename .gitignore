@@ -167,3 +167,4 @@ Thumbs.db
 *.DS_Store
 
 # Test Files for benchmarks
+Trad/*

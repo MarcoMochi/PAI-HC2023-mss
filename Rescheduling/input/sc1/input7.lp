@@ -1583,5 +1583,23 @@ newTARGETshare("IMPERIA U.T.I.C.", 3,10, 61, 91).
 newTARGETshare("IMPERIA UROLOGIA", 10,10, 61, 91).
 newTARGETshare("IMPERIA UROLOGIA DH SURGERY", 4,10, 61, 91).
 
-limit("IMPERIA CHIRURGIA GENERALE DH SURGERY", 21, 41, 10).
-limit("IMPERIA CHIRURGIA GENERALE DH SURGERY", 61, 71, 6).
+unusable("SALA EP",15).
+unusable("SALA C",39).
+unusable("SALA D",57).
+unusable("SALA OCUL.",54).
+
+unusable("SALA EP",30).
+unusable("SALA C",76).
+unusable("SALA D",28).
+unusable("SALA B",39).
+
+unusable("SALA A",40).
+unusable("SALA E",83).
+unusable("SALA D",18).
+unusable("SALA B",19).
+
+
+unusable("SALA A",41).
+unusable("SALA E",22).
+unusable("SALA OCUL.",62).
+unusable("SALA B",78).

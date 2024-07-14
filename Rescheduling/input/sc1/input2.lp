@@ -1585,10 +1585,3 @@ newTARGETshare("IMPERIA UROLOGIA DH SURGERY", 4,10, 61, 91).
 
 unusable("SALA EP",15).
 unusable("SALA C",39).
-unusable("SALA D",57).
-unusable("SALA OCUL.",54).
-
-unusable("SALA EP",30).
-unusable("SALA C",76).
-unusable("SALA D",28).
-unusable("SALA B",39).

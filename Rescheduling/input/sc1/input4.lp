@@ -1590,16 +1590,3 @@ unusable("SALA OCUL.",54).
 
 unusable("SALA EP",30).
 unusable("SALA C",76).
-unusable("SALA D",28).
-unusable("SALA B",39).
-
-unusable("SALA A",40).
-unusable("SALA E",83).
-unusable("SALA D",18).
-unusable("SALA B",19).
-
-
-unusable("SALA A",41).
-unusable("SALA E",22).
-unusable("SALA OCUL.",62).
-unusable("SALA B",78).
